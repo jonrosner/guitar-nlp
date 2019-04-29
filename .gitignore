@@ -1,0 +1,7 @@
+tabs/
+solo_pages/
+list_pages/
+model/
+scripts/__pycache__/
+nlp/
+.vscode/
